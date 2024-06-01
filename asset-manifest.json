@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cop-chase/static/css/main.9f2aa09d.css",
+    "main.js": "/cop-chase/static/js/main.8f6daca3.js",
+    "static/js/453.4db3e357.chunk.js": "/cop-chase/static/js/453.4db3e357.chunk.js",
+    "index.html": "/cop-chase/index.html",
+    "main.9f2aa09d.css.map": "/cop-chase/static/css/main.9f2aa09d.css.map",
+    "main.8f6daca3.js.map": "/cop-chase/static/js/main.8f6daca3.js.map",
+    "453.4db3e357.chunk.js.map": "/cop-chase/static/js/453.4db3e357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f2aa09d.css",
+    "static/js/main.8f6daca3.js"
+  ]
+}
